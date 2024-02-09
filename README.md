@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python,Machine Learning,MYSQL
 - 🌱 I’m currently learning ...Natural Language Processing,Deep Learning,Generative_AI
 - 💞️ I’m looking to collaborate on ...Data Science
-- 📫 How to reach me ...kushalkulkarni7@gmail.copm
+- 📫 How to reach me ...kushalkulkarni7@gmail.com
 - 😄 Hobbies: ... baking,cooking,shopping,outing 
   
 
